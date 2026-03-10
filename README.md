@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo!
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-💻 Interessado em desenvolvimento de **sites, jogos e programas**  
+💻 Interessado em desenvolvimento de **sites, jogos e softwares**  
 🚀 Sempre aprendendo novas tecnologias e evoluindo na programação
 
 ---
