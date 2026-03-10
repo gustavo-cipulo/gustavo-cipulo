@@ -29,7 +29,7 @@ Busco sempre melhorar minhas habilidades e desenvolver novos projetos para ganha
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:gustavocipulo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:gustavocipulo@gmail.com) 
 
 ---
 
