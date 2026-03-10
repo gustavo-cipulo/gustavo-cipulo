@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# 👋 Olá, eu sou o Gustavo!
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Focado em Python, HTML e CSS
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📫 Contato: gustavocipulo@gmail.com
 <!--
 **gustavo-cipulo/gustavo-cipulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
